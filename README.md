@@ -1,7 +1,5 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvcounter/?username=m-dhieu)
-
 # The Future of Human-Computer Interaction is Emotional, Intuitive & Visually Rich
 
 I'm a software engineering student and visual artist operating at the intersection of technology and creativity.  

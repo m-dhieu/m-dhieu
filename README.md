@@ -17,7 +17,9 @@ If you're building what's next, I want to be a part of it.
 
 Linux  
 Python
+
 Database Management
+
 Product Design  
 Drawing & Painting  
 Creative & Poetry Writing

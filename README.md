@@ -37,6 +37,6 @@ Collection of art pieces — drawings, paintings, and crafts — that embody my 
 
 ## Connect with Me  
 
-[LinkedIn](https://linkedin.com/in/monica-dhieu) | [Email](mailto:m.dhieu@alustudent.com)
+[Email](mailto:m.dhieu@alustudent.com)
 
 </div>

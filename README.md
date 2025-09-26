@@ -16,8 +16,8 @@ If you're building what's next, I want to be a part of it.
 ## Top Skills
 
 Linux  
-Python
-Database Management
+Python  
+Database Management  
 Product Design  
 Drawing & Painting  
 Creative & Poetry Writing

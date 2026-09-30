@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**m-dhieu/m-dhieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello 👋🏿
 
-Here are some ideas to get you started:
+I’m a software engineering student and visual artist exploring the intersection of technology, creativity, and human-centered design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in how emerging technologies can open new possibilities for creative expression, and how art and design can make technology more human.
+
+---
+
+## Skills
+
+Linux | DSA | DBMS | Visual Arts
+
+---
+
+## Connect with Me
+
+[Email](mailto:m.dhieu@alustudent.com)
+
+</div>
